@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: da-app
+Implementation-Version: 1.0.0-SNAPSHOT
+Built-By: Admin
+Implementation-Vendor-Id: com.globits
+Build-Jdk: 1.8.0_231
+Implementation-URL: http://maven.apache.org
+Created-By: Maven Integration for Eclipse
+Main-Class: com.globits.PIApplication
+
